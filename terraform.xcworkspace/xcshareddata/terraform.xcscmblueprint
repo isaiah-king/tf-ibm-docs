@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E7AFCD6C4E4D86C1C8B8011CF402927B679DF55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2E7AFCD6C4E4D86C1C8B8011CF402927B679DF55" : 9223372036854775807,
+    "1023A041D33A85E0CADABD18DC261D6743F6FE68" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D0EFF5D-3C80-439D-A316-B967E1EF8CB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2E7AFCD6C4E4D86C1C8B8011CF402927B679DF55" : "tf-ibm-docs\/",
+    "1023A041D33A85E0CADABD18DC261D6743F6FE68" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "terraform",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "terraform.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/isaiah-king\/terraform.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1023A041D33A85E0CADABD18DC261D6743F6FE68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/isaiah-king\/tf-ibm-docs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E7AFCD6C4E4D86C1C8B8011CF402927B679DF55"
+    }
+  ]
+}
